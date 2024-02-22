@@ -1,0 +1,1 @@
+#Crear un programa en Python que pida al usuario ingresar diferentes tipos de datos (entero, flotante, cadena y booleano), los almacene en variables y luego realice una conversión de tipos de datos y los imprima en diferentes formatos.
